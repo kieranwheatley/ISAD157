@@ -8,4 +8,7 @@ C\# Connection code to an SQL server
 Current Uses
 ------------
 
-*Viewing a list of all users within Users table *Viewing all Educational Institutes within the Education table (There are both displayed within datagrids)
+-   Viewing a list of all users within Users table
+-   Viewing all Educational Institutes within the Education table
+
+(These are both displayed within datagrids)
